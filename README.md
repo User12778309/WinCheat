@@ -1,0 +1,2 @@
+# WinCheat
+A Windows helper
