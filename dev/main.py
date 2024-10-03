@@ -11,7 +11,7 @@ print('''
                 | 9 : Shutdown                       | 21 : Check python                     |
                 | 10 : Formate directory             | 22 : Open calculate                   |
                 | 11 : Open Webcam / Another device  | 23 : Open documentation               |
-                | 12 : MathShell                     | 24 : Compile Powershell               |
+                | 12 : Compile Batch                 | 24 : Compile Powershell               |
                 ------------------------------------------------------------------------------
 
 ''')

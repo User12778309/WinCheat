@@ -1,0 +1,2 @@
+git : https://git-scm.com/
+dev : python ( see dependency ( dev/dependency.txt ) )
