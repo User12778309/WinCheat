@@ -21,7 +21,7 @@ else:
             print("PS2EXE git cloned")
             print("PS2EXE installled")
     else:
-        print("Your have not Git : Please install Git")
+        print("Your have not Git : Please install Git ( see requirement git url )")
 
 
 
