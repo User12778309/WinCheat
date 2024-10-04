@@ -22,7 +22,7 @@ python version : 3.12
 ### 3 Cmd command
 >A simple python code with os.system()
 ### 4 Powershell command
->A simple python code with os.system(Powershell –command “& {}” )
+>A simple python code with os.system('Powershell –command “& {}” ')
 ### 5 Open URL
 >A simple python code with webbrowser.open_new()
 ### 6 Download file ( URL )
@@ -32,7 +32,7 @@ python version : 3.12
 ### 8 Change background
 >A simple python code with cytes
 ### 9 Shutdown
->A simple python code with os.system(shutdown -s)
+>A simple python code with os.system("shutdown -s")
 ### 10 Formate directory
 >A simple python code with os.listdir and os.remove()
 ### 11 Open Webcam / Another device
