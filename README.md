@@ -7,11 +7,13 @@
   \__/\  / |__|___|  /\______  /___|  /\___  >____  /__|  
        \/          \/        \/     \/     \/     \/      
 creator : User12778309
-langage : python , C++ , C# 
+langage : python 
 not my repository : tokyoneon ( device 12 ) , MScholtes ( device 24 )
 version : 1.1
 python version : 3.12  
 ```
+
+# A Windows task automat ( CLI )
 
 ## All Devices info :
 

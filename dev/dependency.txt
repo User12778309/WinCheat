@@ -1,3 +1,4 @@
 os
 urllib
-markdown
+opencv-python
+psutil
