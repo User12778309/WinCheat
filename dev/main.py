@@ -1,11 +1,11 @@
 print('''
                 ------------------------------------------------------------------------------
-                | 1 : Create file                    | 11 : Get ip/user/machine name         |
-                | 2 : Remove file                    | 12 : Compile Powershell               |
-                | 3 : Cmd command                    | 13 : Open Webcam                      |
-                | 4 : Powershell command             | 14 : Shutdown                         |
-                | 5 : Open URL                       | 15 : Change background                |              
-                | 6 : Download file ( URL )          | 16 : List USB ( Windows )             |              
+                | 1 : Create file                    | 7 : Get ip/user/machine name          |
+                | 2 : Remove file                    | 8 : Compile Powershell                |
+                | 3 : Cmd command                    | 9 : Open Webcam                       |
+                | 4 : Powershell command             | 10 : Shutdown                         |
+                | 5 : Open URL                       | 11 : Change background                |              
+                | 6 : Download file ( URL )          | 12 : List USB ( Windows )             |              
                 |-----------------------------------------------------------------------------
 ''')
 while True:
