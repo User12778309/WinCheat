@@ -1,17 +1,12 @@
 print('''
                 ------------------------------------------------------------------------------
                 | 1 : Create file                    | 11 : Get ip/user/machine name         |
-                | 2 : Remove file                    | 12 : Open file                        |
-                | 3 : Cmd command                    | 13 : Open directory                   |
-                | 4 : Powershell command             | 14 : Write JS file ( HTML )           |
-                | 5 : Open URL                       | 15 : Create HTML page                 |
-                | 6 : Download file ( URL )          | 16 : Inject python                    |
-                | 7 : List USB ( Windows )           | 17 : Crypt text                       |
-                | 8 : Change background              | 18 : Decrypt text                     |
-                | 9 : Shutdown                       | 19 : Check python                     |
-                | 10 : Open Webcam / Another device  | 20 : Read File                        |
-                |                        20 : Compile Powershell                             |
-                ------------------------------------------------------------------------------
+                | 2 : Remove file                    | 12 : Compile Powershell               |
+                | 3 : Cmd command                    | 13 : Open Webcam                      |
+                | 4 : Powershell command             | 14 : Shutdown                         |
+                | 5 : Open URL                       | 15 : Change background                |              
+                | 6 : Download file ( URL )          | 16 : List USB ( Windows )             |              
+                |-----------------------------------------------------------------------------
 ''')
 while True:
     print("\n")
@@ -36,11 +31,20 @@ while True:
     if device_num_input == 6:
         import python_files.download_file
 
-    if device_num_input == 7:
+    if device_num_input == 16:
         import python_files.list_usb
 
-    if device_num_input == 8:
+    if device_num_input == 15:
         import python_files.change_bg
 
-    if device_num_input == 9:
+    if device_num_input == 14:
         import python_files.shutdown_pc
+
+    if device_num_input == 13:
+        import python_files.open_webcam
+
+    if device_num_input == 11:
+        import python_files.get_user_info
+
+    if device_num_input == 12:
+        import python_files.compile_powershell

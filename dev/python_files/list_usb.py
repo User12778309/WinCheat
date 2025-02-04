@@ -41,6 +41,4 @@ def main():
     else:
         print("No USB devices found.")
 
-
-if __name__ == "__main__":
-    main()
+main()
